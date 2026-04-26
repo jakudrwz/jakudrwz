@@ -1,10 +1,9 @@
 # > INICIALIZANDO PERFIL... 👾
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGh0cTRwcXRvN3MxYmM3NmJkeHFwMng3b3pjMzdiYzk4bGZicjc1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EQ6B1SaDTtZutOahmE/giphy.gif" width="500">
 </p>
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## > ¿QUIÉN SOY? 🎭
 
