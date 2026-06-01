@@ -5,11 +5,13 @@
 <h1 align="center">Jacobo Mateo</h1>
 
 <p align="center">
-  <strong>Application Developer · Game Developer · Web Projects</strong>
+  <a href="https://github.com/jakudrwz">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFAF16FF&center=true&vCenter=true&repeat=false&width=435&lines=J4KU+%2F+%40jakudrwz" alt="J4KU / @jakudrwz" />
+  </a>
 </p>
 
 <p align="center">
-  <sub>J4KU / @jakudrwz</sub>
+  <strong>Application Developer · Game Developer · Web Projects</strong>
 </p>
 
 <p align="center">
@@ -60,8 +62,6 @@ My work is currently centered around application development, web projects, Unit
 </p>
 
 ---
-
-## Current Work
 
 ## Current Work
 
