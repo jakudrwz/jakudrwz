@@ -136,8 +136,8 @@ Bilingual portfolio built with **Astro**, designed as a central hub for technica
 <p align="center">
   <a href="https://github.com/jakudrwz"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
   <a href="https://jakudrwz.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-E53935?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>&nbsp;
-  <a href="https://www.newgrounds.com/"><img src="https://img.shields.io/badge/NEWGROUNDS-A3FF12?style=for-the-badge&logoColor=black" alt="Newgrounds" /></a>&nbsp;
-  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-1FB6FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://j4kudrwz.newgrounds.com/"><img src="https://img.shields.io/badge/NEWGROUNDS-A3FF12?style=for-the-badge&logoColor=black" alt="Newgrounds" /></a>&nbsp;
+  <a href="https://x.com/JAKUDRWZ"><img src="https://img.shields.io/badge/X-1FB6FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://www.instagram.com/jakudrwz"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
