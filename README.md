@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/jakudrwz">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFAF16FF&center=true&vCenter=true&repeat=false&width=435&lines=J4KU+%2F+%40jakudrwz" alt="J4KU / @JAKUDRWZ" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFAF16FF&center=true&vCenter=true&repeat=false&width=435&lines=J4KU+%2F+%40JAKUDRWZ" alt="J4KU / @JAKUDRWZ" />
   </a>
 </p>
 
