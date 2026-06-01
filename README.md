@@ -2,18 +2,19 @@
   <img src="./assets/github-banner.webp" alt="J4KU GitHub banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Jacobo Mateo</h1>
+<h1 align="center">Jacobo Mateo</h1>
 
 <p align="center">
   <strong>Application Developer · Game Developer · Web Projects</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jakudrwz">
-    <img src="https://img.shields.io/badge/GitHub-jakudrwz-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Application%20Development-D6B84C?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20Portfolio-D6B84C?style=for-the-badge" alt="Status" />
+  <sub>J4KU / @jakudrwz</sub>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Stack-Java%20%2F%20C%23%20%2F%20Web-09050D?style=for-the-badge&logo=codeforces&logoColor=F2A111" alt="Main stack" />
+  <img src="https://img.shields.io/badge/Workflow-Build%20%C2%B7%20Document%20%C2%B7%20Publish-09050D?style=for-the-badge&logo=git&logoColor=F2A111" alt="Workflow" />
 </p>
 
 ---
@@ -22,105 +23,121 @@
 
 I'm a **Multiplatform Application Development** student focused on building clean, structured and well-documented projects.
 
-My work is currently centered around application development, web projects, Unity prototypes and technical portfolio pieces.
+My work is currently centered around application development, web projects, Unity gamedev and technical portfolio pieces.
 
 ---
 
-## Tech Stack
+## Technical Stack
+
+### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=663399" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro" />
-  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Java-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-09050D?style=for-the-badge&logo=csharp&logoColor=F2A111" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-09050D?style=for-the-badge&logo=javascript&logoColor=F2A111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-09050D?style=for-the-badge&logo=typescript&logoColor=F2A111" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-09050D?style=for-the-badge&logo=mysql&logoColor=F2A111" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-09050D?style=for-the-badge&logo=python&logoColor=F2A111" alt="Python" />
+</p>
+
+### Web & Content
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-09050D?style=for-the-badge&logo=html5&logoColor=F2A111" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-09050D?style=for-the-badge&logo=css&logoColor=F2A111" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Astro-09050D?style=for-the-badge&logo=astro&logoColor=F2A111" alt="Astro" />
+  <img src="https://img.shields.io/badge/Markdown-09050D?style=for-the-badge&logo=markdown&logoColor=F2A111" alt="Markdown" />
+  <img src="https://img.shields.io/badge/JSON-09050D?style=for-the-badge&logo=json&logoColor=F2A111" alt="JSON" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-09050D?style=for-the-badge&logo=unity&logoColor=F2A111" alt="Unity" />
+  <img src="https://img.shields.io/badge/Git-09050D?style=for-the-badge&logo=git&logoColor=F2A111" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-09050D?style=for-the-badge&logo=github&logoColor=F2A111" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-09050D?style=for-the-badge&logo=visualstudiocode&logoColor=F2A111" alt="VS Code" />
 </p>
 
 ---
 
 ## Current Work
 
-```txt
-Building a personal portfolio with Astro
-Improving Java and application development skills
-Creating small Unity projects for WebGL platforms
-Preparing clean repositories for professional portfolio use
-Learning better documentation and project architecture workflows
-```
+## Current Work
+
+- Building a personal portfolio with **Astro**, focused on bilingual and visual content.
+- Preparing **Unity WebGL** projects with a clear publishing workflow for browser platforms.
+- Developing more complete **Unity gameplay experiences**, focused on systems, level flow, UI and polished playable loops.
+- Working on **application development projects** with Java, SQL and web technologies, with an emphasis on structure and maintainability.
+- Organizing my development ecosystem around **GitHub, itch.io, Newgrounds and a personal website**.
 
 ---
 
-## Areas of Interest
+## Stats
 
-```txt
-Application Development
-Web Development
-Game Development
-Databases
-Clean Code
-UI Implementation
-Technical Documentation
-Static Site Generation
-```
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jakudrwz&show_icons=true&hide_border=false&bg_color=F2A111&title_color=09050D&text_color=09050D&icon_color=09050D&border_color=09050D" alt="J4KU GitHub stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakudrwz&layout=compact&hide_border=false&bg_color=F2A111&title_color=09050D&text_color=09050D&border_color=09050D" alt="Top languages" />
+  </a>
+</p>
+
+---
+
+## Development Focus
+
+| Area | Focus |
+|---|---|
+| **Application Development** | Java, OOP, maintainable structure and practical tools. |
+| **Web Development** | Astro, TypeScript, static sites, responsive layouts and content-driven pages. |
+| **Game Development** | Unity, C#, WebGL builds, UI flow and gameplay systems. |
+| **Databases** | SQL, relational structure, data organization and basic modeling. |
+| **Documentation** | Clear README files, project notes, setup guides and technical writing. |
 
 ---
 
 ## Featured Work
 
-### Personal Portfolio
+### Personal website
 
-A bilingual portfolio website built with **Astro**, focused on connecting my technical profile, projects and online presence.
+Bilingual portfolio built with **Astro**, designed as a central hub for technical projects, games, art and online platforms.
 
-```txt
-Status: In development
-Stack: Astro, TypeScript, CSS, Markdown
-Focus: Static site generation, responsive design, content structure
-```
-
-### Unity Microgames
-
-Small Unity projects designed for browser platforms and public publishing workflows.
-
-```txt
-Status: In planning / development
-Stack: Unity, C#, WebGL
-Focus: Gameplay logic, UI, build pipeline
-```
-
-### Application Development Projects
-
-Technical projects focused on software structure, maintainability and documentation.
-
-```txt
-Status: Ongoing
-Stack: Java, SQL, Web technologies
-Focus: Code organization, problem solving, documentation
-```
+**Stack:** Astro · TypeScript · CSS · Markdown  
+**Status:** In development
 
 ---
 
-## GitHub Stats
+## Development Principles
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakudrwz&show_icons=true&theme=dark&hide_border=true&title_color=D6B84C&icon_color=D6B84C" alt="GitHub stats" />
-</p>
+- Clear structure before clever solutions.
+- Features should be understandable, usable and maintainable.
+- Scope should stay small enough to finish properly.
+- A project should work well before it grows bigger.
+- Documentation should explain decisions, not just features.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakudrwz&layout=compact&theme=dark&hide_border=true&title_color=D6B84C" alt="Top languages" />
+---
+
+## Snapshot
+
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-09050D?style=for-the-badge&logo=astro&logoColor=F2A111" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Application Development" />
+  <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-09050D?style=for-the-badge&logo=unity&logoColor=F2A111" alt="Game Development" />
+  <img src="https://img.shields.io/badge/Web-Static%20Sites-09050D?style=for-the-badge&logo=html5&logoColor=F2A111" alt="Web Development" />
 </p>
 
 ---
 
-## Links
-
-```txt
-Portfolio: Coming soon
-itch.io: Coming soon
-Newgrounds: Coming soon
-LinkedIn: Coming soon
-```
+<p align="center">
+  <a href="https://github.com/jakudrwz"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="https://jakudrwz.itch.io"><img src="https://img.shields.io/badge/ITCH.IO-E53935?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" /></a>&nbsp;
+  <a href="https://www.newgrounds.com/"><img src="https://img.shields.io/badge/NEWGROUNDS-A3FF12?style=for-the-badge&logoColor=black" alt="Newgrounds" /></a>&nbsp;
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-1FB6FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>&nbsp;
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
