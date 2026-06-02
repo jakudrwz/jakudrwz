@@ -73,6 +73,18 @@ My work is currently centered around application development, web projects, Unit
 
 ---
 
+## Snapshots
+
+<p>
+  <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-09050D?style=for-the-badge&logo=astro&logoColor=F2A111" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Application Development" />
+  <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-09050D?style=for-the-badge&logo=unity&logoColor=F2A111" alt="Game Development" />
+  <img src="https://img.shields.io/badge/Web-Static%20Sites-09050D?style=for-the-badge&logo=html5&logoColor=F2A111" alt="Web Development" />
+</p>
+
+---
+
+<!--
 ## Stats
 
 <p align="center">
@@ -88,6 +100,7 @@ My work is currently centered around application development, web projects, Unit
 </p>
 
 ---
+-->
 
 ## Development Focus
 
@@ -119,17 +132,6 @@ Bilingual portfolio built with **Astro**, designed as a central hub for technica
 - Scope should stay small enough to finish properly.
 - A project should work well before it grows bigger.
 - Documentation should explain decisions, not just features.
-
----
-
-## Snapshot
-
-<p>
-  <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-09050D?style=for-the-badge&logo=astro&logoColor=F2A111" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Application Development" />
-  <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-09050D?style=for-the-badge&logo=unity&logoColor=F2A111" alt="Game Development" />
-  <img src="https://img.shields.io/badge/Web-Static%20Sites-09050D?style=for-the-badge&logo=html5&logoColor=F2A111" alt="Web Development" />
-</p>
 
 ---
 
