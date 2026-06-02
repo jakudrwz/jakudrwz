@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Application Developer · Game Developer · Web Projects</strong>
+  <strong>Application Development · Game Development · Web Development</strong>
 </p>
 
 <p align="center">
@@ -73,17 +73,6 @@ My work is currently centered around application development, web projects, Unit
 
 ---
 
-## Snapshots
-
-<p>
-  <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-09050D?style=for-the-badge&logo=astro&logoColor=F2A111" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-09050D?style=for-the-badge&logo=openjdk&logoColor=F2A111" alt="Application Development" />
-  <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-09050D?style=for-the-badge&logo=unity&logoColor=F2A111" alt="Game Development" />
-  <img src="https://img.shields.io/badge/Web-Static%20Sites-09050D?style=for-the-badge&logo=html5&logoColor=F2A111" alt="Web Development" />
-</p>
-
----
-
 <!--
 ## Stats
 
@@ -104,13 +93,13 @@ My work is currently centered around application development, web projects, Unit
 
 ## Development Focus
 
-| Area | Focus |
+| Area | Current Direction |
 |---|---|
-| **Application Development** | Java, OOP, maintainable structure and practical tools. |
-| **Web Development** | Astro, TypeScript, static sites, responsive layouts and content-driven pages. |
-| **Game Development** | Unity, C#, WebGL builds, UI flow and gameplay systems. |
-| **Databases** | SQL, relational structure, data organization and basic modeling. |
-| **Documentation** | Clear README files, project notes, setup guides and technical writing. |
+| **Application Development** | Building structured projects with Java, OOP, maintainable logic and clear separation of responsibilities. |
+| **Web Development** | Working with Astro, TypeScript, responsive CSS and content-driven static websites. |
+| **Game Development** | Developing Unity/C# projects, from small WebGL builds to more complete gameplay systems. |
+| **Databases & Data** | Practicing SQL, relational models, data organization and structured information for applications. |
+| **Software Design** | Improving how I plan, organize and document projects before turning them into code. |
 
 ---
 
@@ -123,6 +112,13 @@ Bilingual portfolio built with **Astro**, designed as a central hub for technica
 **Stack:** Astro · TypeScript · CSS · Markdown  
 **Status:** In development
 
+### Systemik
+
+Interactive software architecture playground focused on visual system design, component relationships and architectural exploration.
+
+**Stack:** HTML · CSS · JavaScript  
+**Status:** In development
+
 ---
 
 ## Development Principles
@@ -132,6 +128,17 @@ Bilingual portfolio built with **Astro**, designed as a central hub for technica
 - Scope should stay small enough to finish properly.
 - A project should work well before it grows bigger.
 - Documentation should explain decisions, not just features.
+
+---
+
+## Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Astro%20%2B%20TypeScript-F2A111?style=for-the-badge&logo=astro&logoColor=F2A111&labelColor=09050D" alt="Web portfolio" />&nbsp;
+  <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-F2A111?style=for-the-badge&logo=openjdk&logoColor=F2A111&labelColor=09050D" alt="Application Development" />&nbsp;
+  <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-F2A111?style=for-the-badge&logo=unity&logoColor=F2A111&labelColor=09050D" alt="Game Development" />&nbsp;
+  <img src="https://img.shields.io/badge/Docs-README%20%2B%20Structure-F2A111?style=for-the-badge&logo=readthedocs&logoColor=F2A111&labelColor=09050D" alt="Documentation" />
+</p>
 
 ---
 
