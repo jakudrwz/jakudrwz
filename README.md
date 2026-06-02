@@ -65,10 +65,10 @@ My work is currently centered around application development, web projects, Unit
 
 ## Current Work
 
-- Building a personal portfolio with **Astro**, focused on bilingual and visual content.
-- Preparing **Unity WebGL** projects with a clear publishing workflow for browser platforms.
-- Developing more complete **Unity gameplay experiences**, focused on systems, level flow, UI and polished playable loops.
-- Working on **application development projects** with Java, SQL and web technologies, with an emphasis on structure and maintainability.
+- Building a personal portfolio with **Astro**, focused on bilingual content, responsive layout and project documentation.
+- Developing **Unity projects**, from WebGL builds to more complete gameplay experiences.
+- Working on **application development projects** with Java, SQL and web technologies.
+- Improving my workflow around **project structure, maintainability, publishing and documentation**.
 - Organizing my development ecosystem around **GitHub, itch.io, Newgrounds and a personal website**.
 
 ---
@@ -91,7 +91,7 @@ My work is currently centered around application development, web projects, Unit
 ---
 -->
 
-## Development Focus
+## Technical Direction
 
 | Area | Current Direction |
 |---|---|
@@ -134,7 +134,7 @@ Interactive software architecture playground focused on visual system design, co
 ## Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Astro%20%2B%20TypeScript-F2A111?style=for-the-badge&logo=astro&logoColor=F2A111&labelColor=09050D" alt="Web portfolio" />&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-Astro%20%2B%20TypeScript-F2A111?style=for-the-badge&logo=astro&logoColor=F2A111&labelColor=09050D" alt="Portfolio" />&nbsp;
   <img src="https://img.shields.io/badge/Appdev-Java%20%2F%20SQL-F2A111?style=for-the-badge&logo=openjdk&logoColor=F2A111&labelColor=09050D" alt="Application Development" />&nbsp;
   <img src="https://img.shields.io/badge/GameDev-Unity%20%2B%20C%23-F2A111?style=for-the-badge&logo=unity&logoColor=F2A111&labelColor=09050D" alt="Game Development" />&nbsp;
   <img src="https://img.shields.io/badge/Docs-README%20%2B%20Structure-F2A111?style=for-the-badge&logo=readthedocs&logoColor=F2A111&labelColor=09050D" alt="Documentation" />
